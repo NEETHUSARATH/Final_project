@@ -1,2 +1,2 @@
-# Final_project
- 
+# ictak_MERNProject
+Curriculum Tracker for ICTAK
